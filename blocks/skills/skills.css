@@ -1,0 +1,15 @@
+.skills{
+
+    margin-top: 40px;
+}
+
+.skills div{
+    color: var(--color-text);
+
+    padding: 20px;
+
+    border-radius: 30px;
+
+    height: 200px;
+    background:  url(../../images/backgraun\ 2.png),  #7844E9;
+}

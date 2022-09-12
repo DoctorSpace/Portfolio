@@ -1,0 +1,28 @@
+header {
+    position: relative;
+
+    width: auto;
+    height: 200px;
+
+    border-radius: 0px 0px 30px 30px;
+
+    display: flex;
+    justify-content: center;
+
+    background: url(../images/Header.png);
+}
+
+header div{
+
+    height: 150px;
+    width: 150px;
+
+    border-radius: 75px;
+
+    background: url(../images/foto.png) no-repeat;
+    background-size: cover;
+
+    position: absolute;
+    top: 120px;
+    
+}

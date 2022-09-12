@@ -1,0 +1,32 @@
+/* Fonts */
+@import url(../fonts/normalize.css);
+@import url(../fonts/fonts.css);
+
+/* Root */
+@import url(../blocks/Root/root.css);
+
+/* Header */
+@import url(../blocks/header.css);
+
+/* info */
+@import url(../blocks/info/info.css);
+@import url(../blocks/info/info__place.css);
+
+/* aboutMe */
+@import url(../blocks/aboutMe/aboutMe.css);
+@import url(../blocks/aboutMe/aboutMe__cards.css);
+
+/* programs */
+@import url(../blocks/programs/programs.css);
+
+/* skills */
+@import url(../blocks/skills/skills.css);
+
+/* projects */
+@import url(../blocks/projects/projects.css);
+@import url(../blocks/projects/projects__card-enter.css);
+@import url(../blocks/projects/card.css);
+@import url(../blocks/projects/card-none.css);
+
+/* Footer */
+@import url(../blocks/footer/footer.css);

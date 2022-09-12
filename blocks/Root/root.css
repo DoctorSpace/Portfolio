@@ -1,0 +1,24 @@
+.root {
+    min-width: 400px;
+    max-width: 1800px;
+
+    height: 100%;
+    margin: 0 auto;
+
+    font-family: Roboto,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    height: 100%;
+    background-color: var(--Acolor);
+}
+
+h4{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+:root{
+    --color-text: #ffffff;
+    --color-main: #7844E9;
+}

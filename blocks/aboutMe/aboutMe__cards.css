@@ -1,0 +1,45 @@
+.aboutMe__cards{
+
+
+    display: grid;
+
+
+    grid-template-areas: 
+    "Stydent Stydent Any"
+    "Age Work Any";
+
+
+    gap: 20px;
+}
+
+.aboutMe__cards div{
+
+    position: relative;
+
+    color: var(--color-text);
+
+    padding: 20px;
+    text-align: center;
+
+
+    border-radius: 15px;  
+    background: url(../../images/backgraun.png), #7844E9;
+    
+}
+
+#Stydent{
+    grid-area: Stydent;
+}
+
+#Age{
+    grid-area: Age;
+}
+
+#Work{
+    grid-area: Work;
+}
+
+#Any{
+    padding-top: 40px;
+    grid-area: Any;
+}

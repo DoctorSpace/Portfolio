@@ -1,0 +1,6 @@
+.none{
+
+    background: url(../../images/backgraun.png);
+    background-color: var(--color-main);
+    opacity: 0.9;
+}

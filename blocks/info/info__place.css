@@ -1,0 +1,15 @@
+.info__place{
+    margin-top: 20px;
+
+    display: flex;
+
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.info__place img:hover{
+    cursor: pointer;
+    background-color: rgba(107, 14, 150, 0.171);
+    border-radius: 4px;
+}

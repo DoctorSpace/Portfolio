@@ -1,0 +1,27 @@
+.projects__card-enter{
+    
+    padding-top: 20px;
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+}
+
+@media screen and (max-width: 1360px) {
+    
+    .projects__card-enter{
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 30px;
+    }
+
+}
+
+@media screen and (max-width: 700px) {
+    
+    .projects__card-enter{
+
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+    }
+
+}

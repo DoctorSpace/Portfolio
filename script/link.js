@@ -24,12 +24,16 @@ Vk.addEventListener('click',()=>{
 
 
 
+
 //  Card
 
 const card1 = document.querySelector('#id-1')
-
+const card2 = document.querySelector('#id-2')
 
 card1.addEventListener('click',()=>{
-    console.log(1)
     window.location = 'https://doctorspace.github.io/File-Reader-Data/';
+})
+
+card2.addEventListener('click',()=>{
+    window.location = 'https://doctorspace.github.io/Neural-network/';
 })
